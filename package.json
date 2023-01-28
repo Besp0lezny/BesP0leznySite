@@ -10,5 +10,9 @@
     "lint": "next lint"
   },
   "author": "BesP0lezny",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.1.5",
+    "react": "^18.2.0"
+  }
 }
