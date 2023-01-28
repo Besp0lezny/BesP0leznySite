@@ -1,0 +1,14 @@
+{
+  "name": "besp0leznysite",
+  "version": "1.0.0",
+  "description": "Useless Portfolio site",
+  "main": "/pages/index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "BesP0lezny",
+  "license": "ISC"
+}
